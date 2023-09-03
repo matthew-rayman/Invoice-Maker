@@ -1,0 +1,29 @@
+
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+
+$primary : #3d6cb9 ;
+$danger:#f23557;
+$table-cell-padding-x: 1rem;
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.btn-danger-1 {
+    --bs-btn-color: #ffffff;
+    --bs-btn-bg: #f23557;
+    --bs-btn-border-color: #f23557;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #f45370;
+    --bs-btn-hover-border-color: #f34968;
+    --bs-btn-focus-shadow-rgb: 206, 45, 74;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #f55d79;
+    --bs-btn-active-border-color: #f34968;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #000;
+    --bs-btn-disabled-bg: #f23557;
+    --bs-btn-disabled-border-color: #f23557;
+  }
+
+
+
+
+

@@ -1,7 +1,7 @@
 let products = [
     {
        id:1,
-       name:"Orange" ,
+       name:"Orange",
        price:200
     },
 
@@ -24,6 +24,16 @@ let products = [
     {
         id:5,
         name:"Lemon",
+        price:200
+    },
+    {
+        id:6,
+        name:"Durain",
+        price:1000
+    },
+    {
+        id:7,
+        name:"Pineapple",
         price:200
     }
 ]
